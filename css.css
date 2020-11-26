@@ -1,0 +1,10 @@
+td{
+    width:100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px ;
+}
+table{
+    border-radius: 10px;
+    color: black;
+}
